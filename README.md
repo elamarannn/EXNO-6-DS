@@ -18,8 +18,8 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-## Developed by : Elamaran S E
-## Register no.: 212222230036
+## Developed By : Elamaran S E
+## Register No.: 212222230036
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
